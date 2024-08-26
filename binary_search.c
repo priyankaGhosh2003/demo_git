@@ -14,7 +14,7 @@ x=search(a,n,ele);
 if(x==-1)
 printf("the element is not present\n");
 else
-printf("the element is present at index %d\n",x);
+printf("the element is present at position %d\n",x+1);
 return 0;
 }
 
